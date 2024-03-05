@@ -1,5 +1,5 @@
-# Rational Linkages - Issue Tracker
-The external issue tracker for the Python-based [Rational Linkages](https://git.uibk.ac.at/geometrie-vermessung/rational-linkages) toolbox. 
+# Rational Linkages - Issue Tracker and Release Announcer
+The external issue tracker for the Python-based [Rational Linkages](https://git.uibk.ac.at/geometrie-vermessung/rational-linkages) toolbox. New releases are also uploaded here, so by *"watching"* this repository you can use your Github account to get notified on new updates.
 
 ### Create new issues
 - [New issue](https://github.com/hucik14/rl-issues/issues/new/choose)
